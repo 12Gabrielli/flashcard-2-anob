@@ -82,7 +82,7 @@ body {
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(241, 241, 241);
     color: rgb(143, 5, 223);
     position: fixed;
     bottom: 0;
