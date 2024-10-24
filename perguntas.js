@@ -1,4 +1,4 @@
- function riarCartao(categoria,pergunta,resposta){console.log(ategoria,pergunta,resposta;
+ function riarCartao(categoria,pergunta,resposta){console.log(ategoria,pergunta,resposta);
 
 }
     `programação`
